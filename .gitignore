@@ -1,0 +1,8 @@
+.DS_Store
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+.cache/
+
+# Licensed raw data (CRSP, Yahoo): never committed, see data/README.md
+data/licensed/
